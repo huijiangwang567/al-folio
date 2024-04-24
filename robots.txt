@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hw567.github.io/sitemap.xml
+Sitemap: https://huijiangwang567.github.io/sitemap.xml
